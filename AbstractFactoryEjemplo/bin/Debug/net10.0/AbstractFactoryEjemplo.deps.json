@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v10.0": {
-      "AbstractFactory/1.0.0": {
+      "AbstractFactoryEjemplo/1.0.0": {
         "runtime": {
-          "AbstractFactory.dll": {}
+          "AbstractFactoryEjemplo.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AbstractFactory/1.0.0": {
+    "AbstractFactoryEjemplo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

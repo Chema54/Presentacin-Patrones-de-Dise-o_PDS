@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj": {}
+    "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/AbstractFactoryEjemplo.csproj": {}
   },
   "projects": {
-    "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj": {
+    "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/AbstractFactoryEjemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj",
-        "projectName": "AbstractFactory",
-        "projectPath": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj",
+        "projectUniqueName": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/AbstractFactoryEjemplo.csproj",
+        "projectName": "AbstractFactoryEjemplo",
+        "projectPath": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/AbstractFactoryEjemplo.csproj",
         "packagesPath": "/home/leninrevan/.nuget/packages/",
-        "outputPath": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/obj/",
+        "outputPath": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/leninrevan/.nuget/NuGet/NuGet.Config"
