@@ -99,24 +99,24 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 ---
 ## Patrón 2: _______________________________
 ### 2.5 Identificación del patrón
-- [ ] Se indica el nombre oficial del patrón según GoF.
-- [ ] Se indica si el patrón tiene alias o nombres alternativos.
-- [ ] Se explica la intención del patrón.
-- [ ] Se indica su clasificación:
-  - [ ] creacional,
+- [V] Se indica el nombre oficial del patrón según GoF.
+- [V] Se indica si el patrón tiene alias o nombres alternativos.
+- [C] Se explica la intención del patrón.
+- [V] Se indica su clasificación:
+  - [V] creacional,
   - [ ] estructural,
   - [ ] de comportamiento.
-- [ ] Se indica su alcance:
-  - [ ] clase,
+- [V] Se indica su alcance:
+  - [V] clase,
   - [ ] objeto.
 - [ ] Se explica el problema de diseño que motiva el patrón.
 - [ ] Se explica qué fuerzas, tensiones o cambios hacen necesario aplicar el patrón.
 - [ ] Se evita presentar el patrón como “receta de código” sin explicar el problema.
 ### 2.6 Solución propuesta por el patrón
 - [ ] Se explica la solución general que propone el patrón.
-- [ ] Se incluye un diagrama UML formal de la estructura del patrón.
-- [ ] El diagrama UML usa nombres, relaciones y multiplicidades de forma comprensible.
-- [ ] Se identifican los participantes del patrón.
+- [V] Se incluye un diagrama UML formal de la estructura del patrón.
+- [V] El diagrama UML usa nombres, relaciones y multiplicidades de forma comprensible.
+- [V] Se identifican los participantes del patrón.
 - [ ] Se explica la responsabilidad de cada participante.
 - [ ] Se explica cómo colaboran los participantes entre sí.
 - [ ] Se explica qué parte del diseño queda desacoplada.
@@ -134,11 +134,11 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [ ] Se mencionan patrones relacionados.
 - [ ] Se explica brevemente la relación con esos patrones relacionados.
 ### 2.8 Implementación del patrón
-- [ ] Se presenta un ejemplo propio de implementación.
-- [ ] El ejemplo resuelve un problema concreto, no solo muestra clases vacías.
+- [V] Se presenta un ejemplo propio de implementación.
+- [V] El ejemplo resuelve un problema concreto, no solo muestra clases vacías.
 - [ ] El ejemplo permite identificar claramente los participantes del patrón.
 - [ ] El código coincide con el diagrama UML presentado.
-- [ ] Se muestran fragmentos clave de código en las láminas.
+- [V] Se muestran fragmentos clave de código en las láminas.
 - [ ] Las láminas no están saturadas de código completo.
 - [ ] El código completo está disponible en el repositorio.
 - [ ] Se explica cómo se ejecuta el ejemplo.
@@ -283,15 +283,15 @@ Verificación:
 Antes de enviar, completen esta tabla:
 | Elemento | Información |
 |---|---|
-| Equipo | |
-| Integrantes | |
-| Patrones asignados | |
+| Equipo |7|
+| Integrantes |Lenin Jesús Hernández Ramírez  José María Contreras Mota |
+| Patrones asignados |Builder & Abstract Factory|
 | Liga al PDF | |
 | Liga al repositorio | |
 | Liga o archivo del guion | |
-| Lenguaje usado en la implementación | |
-| Herramienta usada para diagramas UML | |
-| Duración ensayada de la teoría | |
+| Lenguaje usado en la implementación |C#|
+| Herramienta usada para diagramas UML |Enterprise Architect 15.2|
+| Duración ensayada de la teoría ||
 | Duración ensayada de la demostración | |
 | Fuentes bibliográficas principales | |
 | ¿Se usó IA? ¿Para qué? | |

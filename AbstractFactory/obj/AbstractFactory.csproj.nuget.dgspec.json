@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj": {}
+    "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj": {}
   },
   "projects": {
-    "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj": {
+    "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj",
+        "projectUniqueName": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj",
         "projectName": "AbstractFactory",
-        "projectPath": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj",
+        "projectPath": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/AbstractFactory.csproj",
         "packagesPath": "/home/leninrevan/.nuget/packages/",
-        "outputPath": "/home/leninrevan/Documentos/programacion/4semestre/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/obj/",
+        "outputPath": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactory/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/leninrevan/.nuget/NuGet/NuGet.Config"
@@ -20,6 +20,7 @@
           "net10.0"
         ],
         "sources": {
+          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +39,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/leninrevan/.dotnet/sdk/10.0.203/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.107/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
