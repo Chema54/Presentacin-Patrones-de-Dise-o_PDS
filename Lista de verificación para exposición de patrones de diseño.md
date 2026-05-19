@@ -17,14 +17,14 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [ ] El nombre del archivo identifica claramente al equipo y los patrones asignados.
 - [ ] La presentación incluye portada con:
   - [ ] nombre de la experiencia educativa,
-  - [ ] nombre de los integrantes,
-  - [ ] patrones asignados,
+  - [V] nombre de los integrantes,
+  - [V] patrones asignados,
 - [ ] La presentación incluye una lámina final de **referencias completas**.
 - [ ] La presentación incluye citas dentro de las láminas, no solo al final.
 ## 1.2 Repositorio de código
 - [ ] Se entrega una liga funcional al repositorio.
 - [ ] El repositorio es público o accesible para el profesor.
-- [ ] El repositorio contiene ejemplos de implementación para **cada patrón asignado**.
+- [V] El repositorio contiene ejemplos de implementación para **cada patrón asignado**.
 - [ ] El repositorio tiene un archivo `README.md`.
 - [ ] El `README.md` explica:
   - [ ] qué patrones se implementan,
@@ -33,7 +33,7 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
   - [ ] versión del lenguaje, framework o herramientas usadas,
   - [ ] comandos necesarios para instalar dependencias,
   - [ ] comandos necesarios para ejecutar los ejemplos.
-- [ ] El código fue probado antes de entregar.
+- [V] El código fue probado antes de entregar.
 - [ ] El repositorio no contiene archivos innecesarios, temporales o basura.
 - [ ] El código está organizado por carpetas, paquetes o módulos comprensibles.
 - [ ] El código fuente tiene nombres de clases, interfaces y métodos coherentes con el patrón explicado.
@@ -49,18 +49,18 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 ---
 # 2. Cobertura por cada patrón asignado
 > Esta sección debe verificarse por separado para cada patrón del equipo.
-## Patrón 1: _______________________________
+## Patrón 1: Builder
 ### 2.1 Identificación del patrón
-- [ ] Se indica el nombre oficial del patrón según GoF.
-- [ ] Se indica si el patrón tiene alias o nombres alternativos.
+- [V] Se indica el nombre oficial del patrón según GoF.
+- [V] Se indica si el patrón tiene alias o nombres alternativos.
 - [ ] Se explica la intención del patrón.
-- [ ] Se indica su clasificación:
-  - [ ] creacional,
+- [V] Se indica su clasificación:
+  - [V] creacional,
   - [ ] estructural,
   - [ ] de comportamiento.
 - [ ] Se indica su alcance:
   - [ ] clase,
-  - [ ] objeto.
+  - [V] objeto.
 - [ ] Se explica el problema de diseño que motiva el patrón.
 - [ ] Se explica qué fuerzas, tensiones o cambios hacen necesario aplicar el patrón.
 - [ ] Se evita presentar el patrón como “receta de código” sin explicar el problema.
@@ -97,53 +97,53 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [ ] Se explica qué salida, comportamiento o resultado debe observarse.
 - [ ] Se demuestra que el patrón realmente resuelve el problema planteado.
 ---
-## Patrón 2: _______________________________
+## Patrón 2: Abstract Factory
 ### 2.5 Identificación del patrón
 - [V] Se indica el nombre oficial del patrón según GoF.
 - [V] Se indica si el patrón tiene alias o nombres alternativos.
-- [C] Se explica la intención del patrón.
+- [V] Se explica la intención del patrón.
 - [V] Se indica su clasificación:
   - [V] creacional,
   - [ ] estructural,
   - [ ] de comportamiento.
 - [V] Se indica su alcance:
-  - [V] clase,
-  - [ ] objeto.
-- [ ] Se explica el problema de diseño que motiva el patrón.
+  - [] clase,
+  - [V] objeto.
+- [V] Se explica el problema de diseño que motiva el patrón.
 - [ ] Se explica qué fuerzas, tensiones o cambios hacen necesario aplicar el patrón.
-- [ ] Se evita presentar el patrón como “receta de código” sin explicar el problema.
+- [V] Se evita presentar el patrón como “receta de código” sin explicar el problema.
 ### 2.6 Solución propuesta por el patrón
-- [ ] Se explica la solución general que propone el patrón.
+- [V] Se explica la solución general que propone el patrón.
 - [V] Se incluye un diagrama UML formal de la estructura del patrón.
 - [V] El diagrama UML usa nombres, relaciones y multiplicidades de forma comprensible.
 - [V] Se identifican los participantes del patrón.
-- [ ] Se explica la responsabilidad de cada participante.
-- [ ] Se explica cómo colaboran los participantes entre sí.
-- [ ] Se explica qué parte del diseño queda desacoplada.
-- [ ] Se explica qué elemento del sistema puede variar sin modificar todo el código.
-- [ ] Se relaciona el patrón con al menos uno de estos principios:
-  - [ ] encapsular lo que varía,
+- [V] Se explica la responsabilidad de cada participante.
+- [V] Se explica cómo colaboran los participantes entre sí.
+- [V] Se explica qué parte del diseño queda desacoplada.
+- [V] Se explica qué elemento del sistema puede variar sin modificar todo el código.
+- [V] Se relaciona el patrón con al menos uno de estos principios:
+  - [V] encapsular lo que varía,
   - [ ] favorecer composición sobre herencia,
-  - [ ] programar para interfaces, no para implementaciones.
+  - [V] programar para interfaces, no para implementaciones.
 ### 2.7 Consecuencias del patrón
-- [ ] Se explican ventajas reales de aplicar el patrón.
-- [ ] Se explican desventajas, costos o riesgos de aplicar el patrón.
-- [ ] Se indica cuándo conviene usarlo.
-- [ ] Se indica cuándo **no** conviene usarlo.
-- [ ] Se advierte si puede convertirse en antipatrón cuando se usa sin necesidad.
-- [ ] Se mencionan patrones relacionados.
-- [ ] Se explica brevemente la relación con esos patrones relacionados.
+- [V] Se explican ventajas reales de aplicar el patrón.
+- [V] Se explican desventajas, costos o riesgos de aplicar el patrón.
+- [V] Se indica cuándo conviene usarlo.
+- [V] Se indica cuándo **no** conviene usarlo.
+- [V] Se advierte si puede convertirse en antipatrón cuando se usa sin necesidad.
+- [V] Se mencionan patrones relacionados.
+- [V] Se explica brevemente la relación con esos patrones relacionados.
 ### 2.8 Implementación del patrón
 - [V] Se presenta un ejemplo propio de implementación.
 - [V] El ejemplo resuelve un problema concreto, no solo muestra clases vacías.
-- [ ] El ejemplo permite identificar claramente los participantes del patrón.
-- [ ] El código coincide con el diagrama UML presentado.
+- [V] El ejemplo permite identificar claramente los participantes del patrón.
+- [V] El código coincide con el diagrama UML presentado.
 - [V] Se muestran fragmentos clave de código en las láminas.
-- [ ] Las láminas no están saturadas de código completo.
-- [ ] El código completo está disponible en el repositorio.
+- [V] Las láminas no están saturadas de código completo.
+- [V] El código completo está disponible en el repositorio.
 - [ ] Se explica cómo se ejecuta el ejemplo.
 - [ ] Se explica qué salida, comportamiento o resultado debe observarse.
-- [ ] Se demuestra que el patrón realmente resuelve el problema planteado.
+- [V] Se demuestra que el patrón realmente resuelve el problema planteado.
 ---
 # 3. Comparación entre los dos patrones
 - [ ] Se explica en qué se parecen los dos patrones asignados.
