@@ -1,0 +1,15 @@
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/bin/Debug/net10.0/BuilderEjemplo
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/bin/Debug/net10.0/BuilderEjemplo.deps.json
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/bin/Debug/net10.0/BuilderEjemplo.runtimeconfig.json
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/bin/Debug/net10.0/BuilderEjemplo.dll
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/bin/Debug/net10.0/BuilderEjemplo.pdb
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.AssemblyInfoInputs.cache
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.AssemblyInfo.cs
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.csproj.CoreCompileInputs.cache
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.sourcelink.json
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.dll
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/refint/BuilderEjemplo.dll
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.pdb
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/BuilderEjemplo.genruntimeconfig.cache
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/BuilderEjemplo/obj/Debug/net10.0/ref/BuilderEjemplo.dll

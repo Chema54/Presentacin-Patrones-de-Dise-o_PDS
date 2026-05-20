@@ -128,8 +128,7 @@ namespace RefactoringGuru.DesignPatterns.AbstractFactory.Conceptual
 
     class Program
     {
-        // para que deje ejecutar el ejemplo
-        // static void Main(string[] args)
+        static void Main(string[] args)
         {
             new Client().Main();
         }

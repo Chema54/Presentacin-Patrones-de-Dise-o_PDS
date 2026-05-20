@@ -61,34 +61,34 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [ ] Se indica su alcance:
   - [ ] clase,
   - [V] objeto.
-- [ ] Se explica el problema de diseño que motiva el patrón.
-- [ ] Se explica qué fuerzas, tensiones o cambios hacen necesario aplicar el patrón.
-- [ ] Se evita presentar el patrón como “receta de código” sin explicar el problema.
+- [V] Se explica el problema de diseño que motiva el patrón.
+- [F] Se explica qué fuerzas, tensiones o cambios hacen necesario aplicar el patrón.
+- [V] Se evita presentar el patrón como “receta de código” sin explicar el problema.
 ### 2.2 Solución propuesta por el patrón
-- [ ] Se explica la solución general que propone el patrón.
-- [ ] Se incluye un diagrama UML formal de la estructura del patrón.
-- [ ] El diagrama UML usa nombres, relaciones y multiplicidades de forma comprensible.
-- [ ] Se identifican los participantes del patrón.
-- [ ] Se explica la responsabilidad de cada participante.
-- [ ] Se explica cómo colaboran los participantes entre sí.
-- [ ] Se explica qué parte del diseño queda desacoplada.
-- [ ] Se explica qué elemento del sistema puede variar sin modificar todo el código.
-- [ ] Se relaciona el patrón con al menos uno de estos principios:
-  - [ ] encapsular lo que varía,
-  - [ ] favorecer composición sobre herencia,
-  - [ ] programar para interfaces, no para implementaciones.
+- [V] Se explica la solución general que propone el patrón.
+- [V] Se incluye un diagrama UML formal de la estructura del patrón.
+- [V] El diagrama UML usa nombres, relaciones y multiplicidades de forma comprensible.
+- [V] Se identifican los participantes del patrón.
+- [V] Se explica la responsabilidad de cada participante.
+- [V] Se explica cómo colaboran los participantes entre sí.
+- [V] Se explica qué parte del diseño queda desacoplada.
+- [V] Se explica qué elemento del sistema puede variar sin modificar todo el código.
+- [V] Se relaciona el patrón con al menos uno de estos principios:
+  - [] encapsular lo que varía,
+  - [] favorecer composición sobre herencia,
+  - [V] programar para interfaces, no para implementaciones.
 ### 2.3 Consecuencias del patrón
-- [ ] Se explican ventajas reales de aplicar el patrón.
-- [ ] Se explican desventajas, costos o riesgos de aplicar el patrón.
-- [ ] Se indica cuándo conviene usarlo.
-- [ ] Se indica cuándo **no** conviene usarlo.
-- [ ] Se advierte si puede convertirse en antipatrón cuando se usa sin necesidad.
-- [ ] Se mencionan patrones relacionados.
-- [ ] Se explica brevemente la relación con esos patrones relacionados.
+- [V] Se explican ventajas reales de aplicar el patrón.
+- [V] Se explican desventajas, costos o riesgos de aplicar el patrón.
+- [V] Se indica cuándo conviene usarlo.
+- [V] Se indica cuándo **no** conviene usarlo.
+- [V] Se advierte si puede convertirse en antipatrón cuando se usa sin necesidad.
+- [V] Se mencionan patrones relacionados.
+- [V] Se explica brevemente la relación con esos patrones relacionados.
 ### 2.4 Implementación del patrón
-- [ ] Se presenta un ejemplo propio de implementación.
-- [ ] El ejemplo resuelve un problema concreto, no solo muestra clases vacías.
-- [ ] El ejemplo permite identificar claramente los participantes del patrón.
+- [V] Se presenta un ejemplo propio de implementación.
+- [V] El ejemplo resuelve un problema concreto, no solo muestra clases vacías.
+- [V] El ejemplo permite identificar claramente los participantes del patrón.
 - [ ] El código coincide con el diagrama UML presentado.
 - [ ] Se muestran fragmentos clave de código en las láminas.
 - [ ] Las láminas no están saturadas de código completo.
@@ -141,8 +141,8 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [V] Se muestran fragmentos clave de código en las láminas.
 - [V] Las láminas no están saturadas de código completo.
 - [V] El código completo está disponible en el repositorio.
-- [ ] Se explica cómo se ejecuta el ejemplo.
-- [ ] Se explica qué salida, comportamiento o resultado debe observarse.
+- [V] Se explica cómo se ejecuta el ejemplo.
+- [V] Se explica qué salida, comportamiento o resultado debe observarse.
 - [V] Se demuestra que el patrón realmente resuelve el problema planteado.
 ---
 # 3. Comparación entre los dos patrones
@@ -157,7 +157,7 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 ---
 # 4. Calidad
 ## 4.1 Fuentes permitidas
-- [ ] Se usó como fuente principal el libro de GoF:
+- [V] Se usó como fuente principal el libro de GoF:
   - Gamma, Helm, Johnson y Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software*.
 - [ ] Se usó al menos un libro complementario adecuado para licenciatura.
 - [ ] Las fuentes consultadas son libros especializados, documentación técnica formal o publicaciones académicas.
