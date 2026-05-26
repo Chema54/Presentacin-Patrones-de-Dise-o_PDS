@@ -45,19 +45,10 @@ Dado que el repositorio contiene múltiples proyectos de consola autónomos, deb
 
 Abre tu terminal y ejecuta los siguientes comandos según el caso:
 
-### 1. Ejecutar el ejemplo de Builder
-```bash
-cd BuilderEjemplo
-dotnet run
-
-### 2. Ejecutar el ejemplo de Abstract Factory
-```bash
-cd AbstractFactoryEjemplo
-dotnet run
-
-### 1. Ejecutar el ejemplo combinado
-```bash
-cd AbstractBuilderFactory
-dotnet run
+| Ejemplo | Comandos |
+|----------|----------|
+| Builder | `cd BuilderEjemplo && dotnet run` |
+| Abstract Factory | `cd AbstractFactoryEjemplo && dotnet run` |
+| Combinado | `cd AbstractBuilderFactory && dotnet run` |
 
 
