@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/AbstractFactoryEjemplo.csproj",
-      "projectName": "AbstractFactoryEjemplo",
-      "projectPath": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/AbstractFactoryEjemplo.csproj",
+      "projectUniqueName": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/AbstractBuilderFactory.csproj",
+      "projectName": "AbstractBuilderFactory",
+      "projectPath": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/AbstractBuilderFactory.csproj",
       "packagesPath": "/home/leninrevan/.nuget/packages/",
-      "outputPath": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractFactoryEjemplo/obj/",
+      "outputPath": "/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/leninrevan/.nuget/NuGet/NuGet.Config"

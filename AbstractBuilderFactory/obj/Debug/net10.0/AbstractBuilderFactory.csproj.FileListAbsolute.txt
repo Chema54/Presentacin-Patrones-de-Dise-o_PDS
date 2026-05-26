@@ -1,0 +1,15 @@
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/bin/Debug/net10.0/AbstractBuilderFactory
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/bin/Debug/net10.0/AbstractBuilderFactory.deps.json
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/bin/Debug/net10.0/AbstractBuilderFactory.runtimeconfig.json
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/bin/Debug/net10.0/AbstractBuilderFactory.dll
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/bin/Debug/net10.0/AbstractBuilderFactory.pdb
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.AssemblyInfoInputs.cache
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.AssemblyInfo.cs
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.csproj.CoreCompileInputs.cache
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.sourcelink.json
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.dll
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/refint/AbstractBuilderFactory.dll
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.pdb
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/AbstractBuilderFactory.genruntimeconfig.cache
+/home/leninrevan/Documentos/c#/Presentacin-Patrones-de-Dise-o_PDS/AbstractBuilderFactory/obj/Debug/net10.0/ref/AbstractBuilderFactory.dll

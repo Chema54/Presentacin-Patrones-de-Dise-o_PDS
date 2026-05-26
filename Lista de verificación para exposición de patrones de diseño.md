@@ -12,31 +12,31 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 ---
 # 1. Entregables obligatorios
 ## 1.1 Presentación
-- [ ] La presentación fue exportada en formato **PDF**.
-- [ ] El archivo PDF abre correctamente.
-- [ ] El nombre del archivo identifica claramente al equipo y los patrones asignados.
-- [ ] La presentación incluye portada con:
-  - [ ] nombre de la experiencia educativa,
+- [V] La presentación fue exportada en formato **PDF**.
+- [V] El archivo PDF abre correctamente.
+- [V] El nombre del archivo identifica claramente al equipo y los patrones asignados.
+- [V] La presentación incluye portada con:
+  - [V] nombre de la experiencia educativa,
   - [V] nombre de los integrantes,
   - [V] patrones asignados,
-- [ ] La presentación incluye una lámina final de **referencias completas**.
-- [ ] La presentación incluye citas dentro de las láminas, no solo al final.
+- [V] La presentación incluye una lámina final de **referencias completas**.
+- [V] La presentación incluye citas dentro de las láminas, no solo al final.
 ## 1.2 Repositorio de código
-- [ ] Se entrega una liga funcional al repositorio.
-- [ ] El repositorio es público o accesible para el profesor.
+- [V] Se entrega una liga funcional al repositorio.
+- [V] El repositorio es público o accesible para el profesor.
 - [V] El repositorio contiene ejemplos de implementación para **cada patrón asignado**.
-- [ ] El repositorio tiene un archivo `README.md`.
-- [ ] El `README.md` explica:
-  - [ ] qué patrones se implementan,
-  - [ ] qué problema resuelve cada ejemplo,
-  - [ ] cómo ejecutar el proyecto,
-  - [ ] versión del lenguaje, framework o herramientas usadas,
-  - [ ] comandos necesarios para instalar dependencias,
-  - [ ] comandos necesarios para ejecutar los ejemplos.
+- [V] El repositorio tiene un archivo `README.md`.
+- [V] El `README.md` explica:
+  - [V] qué patrones se implementan,
+  - [V] qué problema resuelve cada ejemplo,
+  - [V] cómo ejecutar el proyecto,
+  - [V] versión del lenguaje, framework o herramientas usadas,
+  - [V] comandos necesarios para instalar dependencias,
+  - [V] comandos necesarios para ejecutar los ejemplos.
 - [V] El código fue probado antes de entregar.
-- [ ] El repositorio no contiene archivos innecesarios, temporales o basura.
-- [ ] El código está organizado por carpetas, paquetes o módulos comprensibles.
-- [ ] El código fuente tiene nombres de clases, interfaces y métodos coherentes con el patrón explicado.
+- [V] El repositorio no contiene archivos innecesarios, temporales o basura.
+- [V] El código está organizado por carpetas, paquetes o módulos comprensibles.
+- [V] El código fuente tiene nombres de clases, interfaces y métodos coherentes con el patrón explicado.
 ## 1.3 Guion de exposición
 - [ ] Se entrega un guion por escrito.
 - [ ] El guion indica **lámina por lámina** qué se dirá.
@@ -89,13 +89,13 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [V] Se presenta un ejemplo propio de implementación.
 - [V] El ejemplo resuelve un problema concreto, no solo muestra clases vacías.
 - [V] El ejemplo permite identificar claramente los participantes del patrón.
-- [ ] El código coincide con el diagrama UML presentado.
-- [ ] Se muestran fragmentos clave de código en las láminas.
-- [ ] Las láminas no están saturadas de código completo.
-- [ ] El código completo está disponible en el repositorio.
-- [ ] Se explica cómo se ejecuta el ejemplo.
-- [ ] Se explica qué salida, comportamiento o resultado debe observarse.
-- [ ] Se demuestra que el patrón realmente resuelve el problema planteado.
+- [V] El código coincide con el diagrama UML presentado.
+- [V] Se muestran fragmentos clave de código en las láminas.
+- [V] Las láminas no están saturadas de código completo.
+- [V] El código completo está disponible en el repositorio.
+- [V] Se explica cómo se ejecuta el ejemplo.
+- [V] Se explica qué salida, comportamiento o resultado debe observarse.
+- [V] Se demuestra que el patrón realmente resuelve el problema planteado.
 ---
 ## Patrón 2: Abstract Factory
 ### 2.5 Identificación del patrón
@@ -146,24 +146,24 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [V] Se demuestra que el patrón realmente resuelve el problema planteado.
 ---
 # 3. Comparación entre los dos patrones
-- [ ] Se explica en qué se parecen los dos patrones asignados.
-- [ ] Se explica en qué se diferencian.
-- [ ] Se aclara qué problema resuelve cada uno.
-- [ ] Se evita confundir patrones parecidos.
-- [ ] Se incluye al menos un criterio para decidir cuándo usar uno y cuándo usar el otro.
-- [ ] Se explica si ambos patrones podrían combinarse en un mismo diseño.
-- [ ] Si se pueden combinar, se presenta un ejemplo breve.
+- [V] Se explica en qué se parecen los dos patrones asignados.
+- [V] Se explica en qué se diferencian.
+- [V] Se aclara qué problema resuelve cada uno.
+- [V] Se evita confundir patrones parecidos.
+- [V] Se incluye al menos un criterio para decidir cuándo usar uno y cuándo usar el otro.
+- [V] Se explica si ambos patrones podrían combinarse en un mismo diseño.
+- [V] Si se pueden combinar, se presenta un ejemplo breve.
 - [ ] Si no conviene combinarlos, se explica por qué.
 ---
 # 4. Calidad
 ## 4.1 Fuentes permitidas
 - [V] Se usó como fuente principal el libro de GoF:
   - Gamma, Helm, Johnson y Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software*.
-- [ ] Se usó al menos un libro complementario adecuado para licenciatura.
-- [ ] Las fuentes consultadas son libros especializados, documentación técnica formal o publicaciones académicas.
-- [ ] No se usaron blogs, videos, páginas genéricas o respuestas de IA como fuente principal.
-- [ ] Si se usó alguna fuente web, se justifica su uso y se cita correctamente.
-- [ ] Las referencias existen y fueron verificadas.
+- [V] Se usó al menos un libro complementario adecuado para licenciatura.
+- [V] Las fuentes consultadas son libros especializados, documentación técnica formal o publicaciones académicas.
+- [V] No se usaron blogs, videos, páginas genéricas o respuestas de IA como fuente principal.
+- [] Si se usó alguna fuente web, se justifica su uso y se cita correctamente.
+- [V] Las referencias existen y fueron verificadas.
 ## 4.2 Citas dentro de las láminas
 - [ ] Toda definición importante tiene cita.
 - [ ] Toda intención del patrón tiene cita.
@@ -174,72 +174,72 @@ La entrega debe permitir que el profesor revise el trabajo sin adivinar:
 - [ ] No hay referencias inventadas.
 - [ ] No hay citas decorativas que no correspondan con lo que se afirma.
 ## 4.3 Referencias finales
-- [ ] La presentación tiene una sección final de referencias.
-- [ ] Las referencias están completas.
-- [ ] Las referencias incluyen autor, año, título, editorial o fuente.
-- [ ] Las referencias coinciden con las citas usadas en las láminas.
-- [ ] No aparecen referencias que no fueron usadas.
-- [ ] No se omiten fuentes que sí fueron usadas.
+- [V] La presentación tiene una sección final de referencias.
+- [V] Las referencias están completas.
+- [V] Las referencias incluyen autor, año, título, editorial o fuente.
+- [V] Las referencias coinciden con las citas usadas en las láminas.
+- [V] No aparecen referencias que no fueron usadas.
+- [V] No se omiten fuentes que sí fueron usadas.
 ---
 # 5. Uso responsable de inteligencia artificial
-- [ ] El equipo verificó que ninguna definición, cita o referencia haya sido inventada por una herramienta de IA.
-- [ ] El equipo contrastó la información teórica con libros o fuentes formales.
-- [ ] El equipo no copió texto generado por IA sin revisarlo, corregirlo y fundamentarlo.
-- [ ] El equipo entiende y puede explicar oralmente todo lo que aparece en las láminas.
-- [ ] El equipo puede responder de dónde salió cada definición importante.
-- [ ] El equipo incluye una breve declaración de uso de IA, si la utilizó.
+- [V] El equipo verificó que ninguna definición, cita o referencia haya sido inventada por una herramienta de IA.
+- [V] El equipo contrastó la información teórica con libros o fuentes formales.
+- [V] El equipo no copió texto generado por IA sin revisarlo, corregirlo y fundamentarlo.
+- [V] El equipo entiende y puede explicar oralmente todo lo que aparece en las láminas.
+- [V] El equipo puede responder de dónde salió cada definición importante.
+- [V] El equipo incluye una breve declaración de uso de IA, si la utilizó.
 Ejemplo de declaración:
 > Para preparar este trabajo se utilizó inteligencia artificial como apoyo para organizar ideas, revisar redacción o generar preguntas de estudio. Las definiciones, citas, diagramas y referencias fueron verificadas contra fuentes bibliográficas formales. El equipo asume la responsabilidad académica completa del contenido presentado.
 ---
 # 6. Calidad de las láminas
-- [ ] Las láminas tienen poco texto y explican una idea principal por lámina.
-- [ ] El tamaño de letra permite leer desde el aula.
-- [ ] Los diagramas se distinguen con claridad.
-- [ ] Los fragmentos de código son legibles.
-- [ ] No hay capturas de pantalla borrosas.
-- [ ] No hay láminas saturadas de texto.
-- [ ] No se copian párrafos completos de libros o páginas web.
-- [ ] Las imágenes, diagramas o figuras tomadas/adaptadas de fuentes externas tienen cita.
-- [ ] La presentación tiene una secuencia lógica:
-  - [ ] problema,
-  - [ ] patrón,
-  - [ ] estructura,
-  - [ ] participantes,
-  - [ ] consecuencias,
-  - [ ] implementación,
-  - [ ] demostración,
-  - [ ] cierre.
+- [V] Las láminas tienen poco texto y explican una idea principal por lámina.
+- [V] El tamaño de letra permite leer desde el aula.
+- [V] Los diagramas se distinguen con claridad.
+- [V] Los fragmentos de código son legibles.
+- [V] No hay capturas de pantalla borrosas.
+- [V] No hay láminas saturadas de texto.
+- [V] No se copian párrafos completos de libros o páginas web.
+- [V] Las imágenes, diagramas o figuras tomadas/adaptadas de fuentes externas tienen cita.
+- [V] La presentación tiene una secuencia lógica:
+  - [V] analogía,
+  - [V] problema,
+  - [V] patrón,
+  - [V] estructura,
+  - [V] participantes,
+  - [V] implementación,
+  - [V] demostración,
+  - [V] cierre.
 ---
 # 7. Calidad de los diagramas UML
-- [ ] Cada patrón tiene al menos un diagrama UML de su estructura general.
-- [ ] Cada implementación tiene al menos un diagrama UML que corresponde al código real.
-- [ ] Los diagramas distinguen correctamente clases, interfaces, clases abstractas y relaciones.
-- [ ] Las relaciones UML usadas son correctas:
-  - [ ] asociación,
+- [V] Cada patrón tiene al menos un diagrama UML de su estructura general.
+- [V] Cada implementación tiene al menos un diagrama UML que corresponde al código real.
+- [V] Los diagramas distinguen correctamente clases, interfaces, clases abstractas y relaciones.
+- [V] Las relaciones UML usadas son correctas:
+  - [V] asociación,
   - [ ] dependencia,
-  - [ ] generalización/herencia,
+  - [V] generalización/herencia,
   - [ ] realización de interfaz,
   - [ ] composición/agregación, si aplica.
-- [ ] Los nombres de clases e interfaces del diagrama coinciden con el código.
-- [ ] Los métodos principales del patrón aparecen en el diagrama.
-- [ ] El diagrama no contradice la explicación oral.
-- [ ] El equipo puede justificar por qué modeló así la solución.
+- [] Los nombres de clases e interfaces del diagrama coinciden con el código.
+- [V] Los métodos principales del patrón aparecen en el diagrama.
+- [V] El diagrama no contradice la explicación oral.
+- [V] El equipo puede justificar por qué modeló así la solución.
 ---
 # 8. Demostración práctica
-- [ ] La demostración fue ensayada antes de la clase.
-- [ ] El equipo puede ejecutar los ejemplos sin depender de configuraciones ocultas.
-- [ ] El equipo tiene preparado el entorno antes de iniciar la exposición.
-- [ ] El equipo sabe qué archivo, clase o comando abrir primero.
-- [ ] La demostración muestra el problema o situación inicial.
-- [ ] La demostración muestra cómo el patrón organiza la solución.
-- [ ] La demostración muestra qué pasaría si se agrega una nueva variante, clase, comportamiento o producto.
+- [V] La demostración fue ensayada antes de la clase.
+- [V] El equipo puede ejecutar los ejemplos sin depender de configuraciones ocultas.
+- [V] El equipo tiene preparado el entorno antes de iniciar la exposición.
+- [V] El equipo sabe qué archivo, clase o comando abrir primero.
+- [V] La demostración muestra el problema o situación inicial.
+- [V] La demostración muestra cómo el patrón organiza la solución.
+- [] La demostración muestra qué pasaría si se agrega una nueva variante, clase, comportamiento o producto.
 - [ ] La demostración no se limita a enseñar código: explica decisiones de diseño.
 - [ ] La demostración dura máximo 10 minutos.
-- [ ] El equipo tiene un plan alternativo si falla la ejecución en vivo:
-  - [ ] capturas,
+- [V] El equipo tiene un plan alternativo si falla la ejecución en vivo:
+  - [V] capturas,
   - [ ] salida esperada,
   - [ ] video corto,
-  - [ ] explicación guiada del código.
+  - [V] explicación guiada del código.
 ---
 # 9. Distribución del trabajo en el equipo
 - [ ] Todos los integrantes participan en la exposición.
@@ -266,8 +266,8 @@ Verificación:
 - [ ] El equipo no dedica tiempo excesivo a leer código línea por línea.
 ---
 # 11. Revisión final antes de entregar
-- [ ] El PDF final fue revisado después de exportarse.
-- [ ] La liga al repositorio fue probada en una ventana privada o desde otra cuenta.
+- [V] El PDF final fue revisado después de exportarse.
+- [V] La liga al repositorio fue probada en una ventana privada o desde otra cuenta.
 - [ ] El código fue ejecutado nuevamente después del último cambio.
 - [ ] El guion coincide con la versión final de las láminas.
 - [ ] Las citas en láminas coinciden con las referencias finales.
@@ -287,18 +287,18 @@ Antes de enviar, completen esta tabla:
 | Integrantes |Lenin Jesús Hernández Ramírez  José María Contreras Mota |
 | Patrones asignados |Builder & Abstract Factory|
 | Liga al PDF | |
-| Liga al repositorio | |
+| Liga al repositorio |https://github.com/Chema54/Presentacin-Patrones-de-Dise-o_PDS|
 | Liga o archivo del guion | |
 | Lenguaje usado en la implementación |C#|
 | Herramienta usada para diagramas UML |Enterprise Architect 15.2|
 | Duración ensayada de la teoría ||
 | Duración ensayada de la demostración | |
 | Fuentes bibliográficas principales | |
-| ¿Se usó IA? ¿Para qué? | |
+| ¿Se usó IA? ¿Para qué? |Sí, para la implementación|
 ---
 # 13. Declaración de entrega
-- [ ] Confirmamos que el contenido fue revisado por todo el equipo.
-- [ ] Confirmamos que las fuentes fueron verificadas.
-- [ ] Confirmamos que el código funciona.
-- [ ] Confirmamos que podemos explicar todo lo presentado.
+- [V] Confirmamos que el contenido fue revisado por todo el equipo.
+- [V] Confirmamos que las fuentes fueron verificadas.
+- [V] Confirmamos que el código funciona.
+- [V] Confirmamos que podemos explicar todo lo presentado.
 - [ ] Confirmamos que la exposición fue ensayada y cumple con el tiempo máximo.
